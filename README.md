@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/PrithvijitBose">
+                    <img src="https://avatars.githubusercontent.com/u/136217645?v=4" width="100px;" alt="Prithvijit Bose"/>
+                    <br />
+                    <sub><b>Prithvijit Bose</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
